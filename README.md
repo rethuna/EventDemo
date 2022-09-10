@@ -70,7 +70,7 @@ then inside row write this code
     }
 }
 
-This "registration_ids" is the device token so we should copy the device token from this application and change the token accordingly.
+This "registration_ids" is the device token so we should copy the device token from this application( Click "settings icon" for device token) and change the token accordingly.(please check below app screenshot for getting device token)
 
 ![Screenshot_20220910_041121](https://user-images.githubusercontent.com/6903524/189455227-4b6046a4-2295-4659-b9ae-b8652230c818.jpg)
 
