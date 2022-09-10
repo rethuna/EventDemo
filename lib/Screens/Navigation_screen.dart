@@ -27,7 +27,17 @@ class MyDrawerDirectory extends StatelessWidget {
                 fontWeight: FontWeight.bold,
               ),
             ),
-            currentAccountPicture: Image.asset("images/a.jpg"),
+            currentAccountPicture: Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Container(
+                decoration: BoxDecoration(
+                    shape: BoxShape.circle,
+                    image: DecorationImage(
+                        fit: BoxFit.fill,
+                        image:
+                        AssetImage("images/profile.png"))),
+              ),
+            ),
           ),
           ListTile(
             leading: Icon(
