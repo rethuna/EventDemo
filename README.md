@@ -42,7 +42,10 @@ Here iam using Postman for testing purposes(https://github.com/alisonhall/postma
 Set your HTTP request to POST.
 Input the link in request url like this: https://fcm.googleapis.com/fcm/send
 Switch to Head Tab,
-then select key as Content type and value as application/json,next select key as Authorization and value key=AAAAVp06ckQ:APA91bFnvz1sKtKWL6KM6uFKDyu450nVnNmpEH84Q25z-cQiF3pzIANWnTjyE9v8bsgbWSE2r_DfLQ7oNlfxFEAg5rg7i7x69JqJitQNT7v4KVD6bEgQDgFCNiEdFaGHEoKeQZ8eI4HO
+
+then select key as Content type and value as application/json,
+next select key as Authorization and value key=AAAAVp06ckQ:APA91bFnvz1sKtKWL6KM6uFKDyu450nVnNmpEH84Q25z-cQiF3pzIANWnTjyE9v8bsgbWSE2r_DfLQ7oNlfxFEAg5rg7i7x69JqJitQNT7v4KVD6bEgQDgFCNiEdFaGHEoKeQZ8eI4HO
+
 
 ![post](https://user-images.githubusercontent.com/6903524/189455744-c263227d-d230-4aee-9bf4-d11534612cc8.PNG)
 
